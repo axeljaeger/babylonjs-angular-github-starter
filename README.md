@@ -2,6 +2,8 @@
 
 Start project that integrates BabylonJS into an Angular application
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=axeljaeger/babylonjs-angular-github-starter)
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.1.
 
 ## Development server
