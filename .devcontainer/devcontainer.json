@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
   "customizations": {
     "codespaces": {
-      "openFiles": ["README.md", "src/app/app.component.ts"]
+      "openFiles": ["README.md", "src/app/app.ts"]
     },
     "vscode": {
       "extensions": [
